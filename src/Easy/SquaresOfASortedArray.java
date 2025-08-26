@@ -1,3 +1,5 @@
+package Easy;
+
 public class SquaresOfASortedArray {
     public static boolean isPrime(int n){
         if (n<2) return false;

@@ -1,5 +1,6 @@
+package Easy;
+
 import java.util.Arrays;
-import java.util.TreeMap;
 
 public class AssignCookies {
     public static void main(String[] args) {

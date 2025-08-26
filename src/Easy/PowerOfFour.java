@@ -1,3 +1,5 @@
+package Easy;
+
 public class PowerOfFour {
     public static void main(String[] args) {
         int n = 129140163;

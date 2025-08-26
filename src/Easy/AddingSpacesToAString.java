@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
-
-import static java.util.Collections.list;
+package Easy;
 
 public class AddingSpacesToAString {
     public static void main(String[] args) {
